@@ -11,4 +11,4 @@ spec:
   memory: 800MB
   ssh: true
 status:
-  running: true
+  running: Created
